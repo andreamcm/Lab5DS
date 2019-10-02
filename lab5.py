@@ -3,6 +3,7 @@
 # Autores:                             #
 #   Andrea Cordón, 16076               #
 #   Cristopher Recinos, 16005          #
+#   Pablo Lopez, 14509                 #
 # lab5.py                              #
 # ------------------------------------ #
 
